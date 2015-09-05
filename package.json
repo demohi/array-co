@@ -1,0 +1,24 @@
+{
+  "name": "array-co",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --harmony index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demohi/array-co.git"
+  },
+  "author": "mdemo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demohi/array-co/issues"
+  },
+  "homepage": "https://github.com/demohi/array-co#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "mz": "^2.0.0"
+  }
+}
